@@ -1,4 +1,4 @@
-# LC3-Nim-Stone-Game
+# LC3-Nim-Stone-Game-In-Assembly
 My LC3 code for the two player stone game referred to as Nim. 
 
 The game board looks as follows:
